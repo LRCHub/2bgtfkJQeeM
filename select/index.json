@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "なんてったって春",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-06T06:45:44.504022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なんてったって春",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_なんてったって春_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なんてったって春",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_なんてったって春_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "なんてったって春",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_なんてったって春_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nantettatte Haru [なんてったって春]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_Nantettatte_Haru_[なんてったって春]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "なんてったって春",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/05_なんてったって春_Sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "なんてったって春 - Nantettatte Haru",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/06_なんてったって春_-_Nantettatte_Haru_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんてったって春",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_なんてったって春_サカナクション.txt"
+    }
+  ]
+}
